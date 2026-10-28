@@ -1,0 +1,7 @@
+data/raw/*.zip
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.log
+.env

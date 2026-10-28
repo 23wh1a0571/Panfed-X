@@ -1,0 +1,8 @@
+﻿torch
+numpy
+scipy
+nibabel
+SimpleITK
+monai
+tqdm
+ 
