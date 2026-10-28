@@ -1,7 +1,13 @@
-data/raw/*.zip
-node_modules/
 venv/
 .venv/
+
+data/
+
+*.zip
+
+*.pth
+*.pt
+
 __pycache__/
-*.log
+*.pyc
 .env
